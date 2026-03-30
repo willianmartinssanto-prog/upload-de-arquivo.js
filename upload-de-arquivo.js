@@ -30,6 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // >>> LISTA DE EXCLUSÃO (como você já tinha)
   const excludedProducts = [
     "capa em tecido para q30 box truss com velcro",
+    "Ecobag algodão cru preço de atacado - Lisas",
     "Capas para Boxtruss fechadas s/ velcro três faces",
     "Kit com 10 Colete para para promotor de marca e produto",
     "Kit c/ 10 coletes para Staff, Apoio ou segurança de evento",
